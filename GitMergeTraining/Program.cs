@@ -21,18 +21,18 @@ namespace Fibonacci
             {
                 return 1;
             }
-            long beforePreviousNumber = 1;
-            long previousNumber = 1;
-            long expectedNumber = 1;
+            long before = 1;
+            long previous = 1;
+            long expected = 1;
 
             for (int i = 3; i <= indexOfNumber; i++)
             {
-                expectedNumber = beforePreviousNumber + previousNumber;
-                beforePreviousNumber = previousNumber;
-                previousNumber = expectedNumber;
+                expected = before + previous;
+                before = previous;
+                previous = expected;
             }
 
-            return expectedNumber;
+            return expected;
         }
     }
 }
