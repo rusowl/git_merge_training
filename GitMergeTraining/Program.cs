@@ -7,10 +7,10 @@ namespace Fibonacci
         static void Main(string[] args)
         {
             uint indexOfNumber = uint.Parse(Console.ReadLine());
-            Console.WriteLine(CalcFibonacci(indexOfNumber));
+            Console.WriteLine(CalcFibonacciRemanedInC(indexOfNumber));
         }
 
-        private static long CalcFibonacci(uint indexOfNumber)
+        private static long CalcFibonacciRemanedInC(uint indexOfNumber)
         {
             if (indexOfNumber == 0)
             {
@@ -21,18 +21,18 @@ namespace Fibonacci
             {
                 return 1;
             }
-            long beforeNumberInA = 1;
-            long previousNumberInA = 1;
-            long expectedNumberInA = 1;
+            long beforeNumberInC = 1;
+            long previousNumberInC = 1;
+            long expectedNumberInC = 1;
 
             for (int i = 3; i <= indexOfNumber; i++)
             {
-                expectedNumberInA = beforeNumberInA + previousNumberInA;
-                beforeNumberInA = previousNumberInA;
-                previousNumberInA = expectedNumberInA;
+                expectedNumberInC = beforeNumberInC + previousNumberInC;
+                beforeNumberInC = previousNumberInC;
+                previousNumberInC = expectedNumberInC;
             }
 
-            return expectedNumberInA;
+            return expectedNumberInC;
         }
     }
 }
