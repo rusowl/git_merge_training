@@ -7,10 +7,10 @@ namespace Fibonacci
         static void Main(string[] args)
         {
             uint indexOfNumber = uint.Parse(Console.ReadLine());
-            Console.WriteLine(CalcFibonacciRemanedInC(indexOfNumber));
+            Console.WriteLine(CalcFibonacciRenamedInC(indexOfNumber));
         }
 
-        private static long CalcFibonacciRemanedInC(uint indexOfNumber)
+        private static long CalcFibonacciRenamedInC(uint indexOfNumber)
         {
             if (indexOfNumber == 0)
             {
