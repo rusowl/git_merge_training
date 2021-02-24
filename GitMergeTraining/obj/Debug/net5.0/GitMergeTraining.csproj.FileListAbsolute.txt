@@ -1,0 +1,16 @@
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\bin\Debug\net5.0\GitMergeTraining.exe
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\bin\Debug\net5.0\GitMergeTraining.deps.json
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\bin\Debug\net5.0\GitMergeTraining.runtimeconfig.json
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\bin\Debug\net5.0\GitMergeTraining.runtimeconfig.dev.json
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\bin\Debug\net5.0\GitMergeTraining.dll
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\bin\Debug\net5.0\ref\GitMergeTraining.dll
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\bin\Debug\net5.0\GitMergeTraining.pdb
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\obj\Debug\net5.0\GitMergeTraining.csprojAssemblyReference.cache
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\obj\Debug\net5.0\GitMergeTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\obj\Debug\net5.0\GitMergeTraining.AssemblyInfoInputs.cache
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\obj\Debug\net5.0\GitMergeTraining.AssemblyInfo.cs
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\obj\Debug\net5.0\GitMergeTraining.csproj.CoreCompileInputs.cache
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\obj\Debug\net5.0\GitMergeTraining.dll
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\obj\Debug\net5.0\ref\GitMergeTraining.dll
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\obj\Debug\net5.0\GitMergeTraining.pdb
+C:\Users\klukiantseva\Documents\learning\GitMergeConflict\git_merge_training\GitMergeTraining\obj\Debug\net5.0\GitMergeTraining.genruntimeconfig.cache
